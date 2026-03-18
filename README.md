@@ -70,6 +70,3 @@ The dataset contains information about various car models including:
 
 Created by **Abdelrhman Aja** as part of a **Data Visualization / Business Intelligence project**.
 
-## License
-
-This project is for educational purposes.
