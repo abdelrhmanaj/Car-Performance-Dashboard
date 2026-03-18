@@ -17,7 +17,7 @@ The dashboard includes several key insights:
 These key performance indicators are displayed at the top of the dashboard for quick reference. 
 
 ## Visualizations
-
+![Power BI Dashboard](Dashboard.jpg)
 The dashboard contains multiple interactive visuals:
 
 1. **Average MPG by Year**
